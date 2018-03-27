@@ -1,0 +1,23 @@
+{
+  "name": "toy-problems",
+  "version": "1.0.0",
+  "description": "My solutions to some toy problems",
+  "main": "problems.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stphnchoe/toy-problems.git"
+  },
+  "author": "Stephen Choe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stphnchoe/toy-problems/issues"
+  },
+  "homepage": "https://github.com/stphnchoe/toy-problems#readme",
+  "dependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb": "^16.1.0"
+  }
+}
